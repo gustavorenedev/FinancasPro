@@ -1,0 +1,8 @@
+
+dev.azure.com/rm551288
+
+starter ferramenta para reiniciar a aplicação
+extension pack for java
+spring extension pack
+
+ctrl + p, add installer, spring boot devtools, selected, proceed, yes e instalou um pacote
